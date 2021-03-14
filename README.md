@@ -1,9 +1,7 @@
 # DIU21
 Prácticas Diseño Interfaces de Usuario 2020-21 (Tema: Turismo) 
 
-Grupo: DIU3_WeRobot.  Curso: 2020/21 
-Integrante 1: Pablo Rodriguez Avila
-Integrante 2: Ahmed El Moukhtari Koubaa
+Grupo: DIU3_We-Robot.  Curso: 2020/21 
 
 
 Proyecto: 
@@ -17,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Pablo Rodriguez Avila     :octocat:     
+ * :bust_in_silhouette:  Ahmed El Moukhtari Koubaa     :octocat:
 
 ----- 
 
