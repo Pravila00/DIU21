@@ -29,7 +29,8 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](P1/competitive_analysis.png) 1.a Competitive Analysis
+1.a Competitive Analysis
+![Método UX](P1/competitive_analysis.png) 
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
@@ -43,8 +44,8 @@ podemos explotar más a la hora de estudiarla.
 En cuanto a las alternativas, hemos seleccionado páginas muy similares para localizaciones
 diferentes en otros países por ser una alternativa global
 
-
-![Método UX](P1/Carlos.png) [](P1/Heather.png) 1.b Persona
+1.b Persona
+![Método UX](P1/Carlos.png) [](P1/Heather.png) 
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
@@ -54,7 +55,8 @@ con 3 hijos y ,además, divorciada. Teniendo en cuenta la diferencia de rasgos p
 de cada personaje, podremos obtener una información más relevante y valiosa.
 
 
-![Método UX](P1/JourneyMapCarlos.png) [](P1/HeatherJourneyMap.png) 1.c User Journey Map
+1.c User Journey Map
+![Método UX](P1/JourneyMapCarlos.png) [](P1/HeatherJourneyMap.png) 
 ----
 
 
@@ -74,7 +76,7 @@ dos rutas le conviene más mirando opiniones de los clientes. Finalmente se deca
 por la primera ruta aunque sea dentro de un mes. Por otro lado, a la hora de pagar
 Carlos tiene algún problema debido a los escasos métodos de pago en la página
 
-
+1.d Usability Review
 ![Documento Usability Review](P1/Usability-Review.pdf) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
