@@ -35,6 +35,7 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+
 Para realizar la comparación hemos seleccionado la página granada-city-tour. Dicha
 elección se ha basado principalmente en algunos de los requisitos que se nos solicitaban en
 el guión de dicha práctica; como: ser una plataforma que ofrece actividades de ocio, reserva
@@ -50,6 +51,7 @@ diferentes en otros países por ser una alternativa global
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+
 Hemos creado aleatoriamente a dos personajes, uno de ellos es Carlos y otro es Heather.
 Carlos es español está felizmente casado y no tiene hijos mientras que Heather es inglesa
 con 3 hijos y ,además, divorciada. Teniendo en cuenta la diferencia de rasgos personales
