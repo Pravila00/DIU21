@@ -35,7 +35,7 @@ Miembros
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
->>> Para realizar la comparación hemos seleccionado la página granada-city-tour. Dicha
+Para realizar la comparación hemos seleccionado la página granada-city-tour. Dicha
 elección se ha basado principalmente en algunos de los requisitos que se nos solicitaban en
 el guión de dicha práctica; como: ser una plataforma que ofrece actividades de ocio, reserva
 de entradas, tour guiados, etc.
@@ -50,7 +50,7 @@ diferentes en otros países por ser una alternativa global
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
->>> Hemos creado aleatoriamente a dos personajes, uno de ellos es Carlos y otro es Heather.
+Hemos creado aleatoriamente a dos personajes, uno de ellos es Carlos y otro es Heather.
 Carlos es español está felizmente casado y no tiene hijos mientras que Heather es inglesa
 con 3 hijos y ,además, divorciada. Teniendo en cuenta la diferencia de rasgos personales
 de cada personaje, podremos obtener una información más relevante y valiosa.
@@ -62,7 +62,7 @@ de cada personaje, podremos obtener una información más relevante y valiosa.
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
->>>- Heather: es abogada y tiene unos días libres, viaja a Granada con sus niños pero al
+- Heather: es abogada y tiene unos días libres, viaja a Granada con sus niños pero al
 llegar un caso que llevaba se complica y su cliente requiere de su atención. Por no
 suspender sus vacaciones Heather decide teletrabajar hasta volver. En Granada
 Heather decide ir con sus 3 hijos a realizar un city tour, pero no tiene mucho tiempo,
@@ -85,7 +85,7 @@ Carlos tiene algún problema debido a los escasos métodos de pago en la página
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 72
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
->>> Hemos realizado dicha review desde el punto de vista de Heather al hacer uso de granadacity-tour. Obtenemos como resultado final: “72 Good”, lo cual concuerda con el perfil de
+Hemos realizado dicha review desde el punto de vista de Heather al hacer uso de granadacity-tour. Obtenemos como resultado final: “72 Good”, lo cual concuerda con el perfil de
 Heater ya que es una mujer de 32 años, inglesa, que se maneja bien con redes sociales,
 páginas web, etc. Tal vez echemos en falta un mecanismo de búsqueda que nos permita
 encontrar lo que buscamos más rápidamente y algunas recomendaciones populares para
