@@ -47,7 +47,8 @@ En cuanto a las alternativas, hemos seleccionado páginas muy similares para loc
 diferentes en otros países por ser una alternativa global
 
 1.b Persona
-![Método UX](P1/Carlos.png) [](P1/Heather.png) 
+![Método UX](P1/Carlos.png) 
+![](P1/Heather.png) 
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
@@ -59,7 +60,8 @@ de cada personaje, podremos obtener una información más relevante y valiosa.
 
 
 1.c User Journey Map
-![Método UX](P1/JourneyMapCarlos.png) [](P1/HeatherJourneyMap.png) 
+![Método UX](P1/JourneyMapCarlos.png) 
+![](P1/HeatherJourneyMap.png) 
 ----
 
 
