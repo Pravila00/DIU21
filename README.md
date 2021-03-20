@@ -30,6 +30,7 @@ Miembros
 ## Paso 1. UX Desk Research & Analisis 
 
 1.a Competitive Analysis
+
 ![Método UX](P1/competitive_analysis.png) 
 -----
 
@@ -77,7 +78,7 @@ por la primera ruta aunque sea dentro de un mes. Por otro lado, a la hora de pag
 Carlos tiene algún problema debido a los escasos métodos de pago en la página
 
 1.d Usability Review
-![Documento Usability Review](P1/Usability-Review.pdf) 1.d Usability Review
+![Documento Usability Review](P1/Usability-Review.pdf) 
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
