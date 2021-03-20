@@ -60,7 +60,9 @@ de cada personaje, podremos obtener una información más relevante y valiosa.
 
 
 1.c User Journey Map
+Journey Map de Carlos
 ![Método UX](P1/JourneyMapCarlos.png) 
+Journey Map de Heather
 ![](P1/HeatherJourneyMap.png) 
 ----
 
