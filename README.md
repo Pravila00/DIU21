@@ -29,7 +29,7 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](P1/competitive_analysis.png) 1.a Competitive Analysis
 -----
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
@@ -44,7 +44,7 @@ En cuanto a las alternativas, hemos seleccionado páginas muy similares para loc
 diferentes en otros países por ser una alternativa global
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](P1/Carlos.png) [](P1/Heather.png) 1.b Persona
 -----
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
@@ -54,40 +54,40 @@ con 3 hijos y ,además, divorciada. Teniendo en cuenta la diferencia de rasgos p
 de cada personaje, podremos obtener una información más relevante y valiosa.
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](P1/JourneyMapCarlos.png) [](P1/HeatherJourneyMap.png) 1.c User Journey Map
 ----
 
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
->>> Heather: es abogada y tiene unos días libres, viaja a Granada con sus niños pero al
+>>>- Heather: es abogada y tiene unos días libres, viaja a Granada con sus niños pero al
 llegar un caso que llevaba se complica y su cliente requiere de su atención. Por no
 suspender sus vacaciones Heather decide teletrabajar hasta volver. En Granada
-Heather decide ir con sus 3 hijos a un parque de atracciones pero no tiene mucho
-tiempo, usa Granada-City-Tour.
-Carlos: es cajero y decide visitar Granada un fin de semana. Carlos mira en su
+Heather decide ir con sus 3 hijos a realizar un city tour, pero no tiene mucho tiempo,
+usa Granada-City-Tour.
+- Carlos: es cajero y decide visitar Granada un fin de semana. Carlos mira en su
 agenda y selecciona algún fin de semana que tenga libre. Indagando, Carlos
-encuentra la web de Granada-City-Tour aunque no sabe muy bien como funciona.
-Carlos sigue investigando y ve una actividad de visita que le gusta pero la fecha no
-es hasta dentro de dos meses. Es en ese momento en que Carlos se plantea visitar
-alguna otra ciudad como Sevilla aunque ya la haya visitado. Durante un par de días
-Carlos decide si debería irse a Granada o Sevilla, para ello consulta foros en
-internet. Finalmente Carlos decide ir a Granada aunque sea dos meses más tarde, lo
-bueno es que acabó pasándoselo genial.
+encuentra la web de Granada-City-Tour aunque hay pocos itinerarios en la página
+debido al covid. Tras un rato mirando encuentra una ruta que le gusta pero la fecha
+disponible es para dentro de un mes. Como a Carlos le gustaría irse pronto, busca
+otra ruta más próxima, lo malo es que es más cara. Acaba analizando cual de las
+dos rutas le conviene más mirando opiniones de los clientes. Finalmente se decanta
+por la primera ruta aunque sea dentro de un mes. Por otro lado, a la hora de pagar
+Carlos tiene algún problema debido a los escasos métodos de pago en la página
 
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Documento Usability Review](P1/Usability-Review.pdf) 1.d Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 72
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
->>> Hemos realizado dicha review desde el punto de vista de Heather al hacer uso de granada-
-city-tour. Obtenemos como resultado final: “72 Good”, lo cual concuerda con el perfil de
+>>> Hemos realizado dicha review desde el punto de vista de Heather al hacer uso de granadacity-tour. Obtenemos como resultado final: “72 Good”, lo cual concuerda con el perfil de
 Heater ya que es una mujer de 32 años, inglesa, que se maneja bien con redes sociales,
 páginas web, etc. Tal vez echemos en falta un mecanismo de búsqueda que nos permita
 encontrar lo que buscamos más rápidamente y algunas recomendaciones populares para
-reducir el tiempo de decisión.
+reducir el tiempo de decisión. También se puede destacar la facilidad para poder volver al
+inicio de la página o para poder añadir al carrito las reservas que queremos
 
 
 
