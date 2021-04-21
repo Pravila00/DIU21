@@ -138,9 +138,7 @@ dicho evento.
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-Si desea visualizar el Scope Canvas en PDF también puede.
-![ScopeCanvas](P2/Canvas.pdf) 
-![Método UX](P2/canvas.png)
+![Canvas](P2/canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -149,14 +147,15 @@ la representación de la información.
 L = Low
 M = Medium
 H = High
-![Método UX](P2/AnalisisTareas.png)
+>>> ![AnalisisTareas](P2/AnalisisTareas.png)
+
 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 >>> Sitemap
-![Método UX](P2/Mapsite.png)
+![Sitemap](P2/MapSite.png)
 
 
 >>> Labelling  
