@@ -104,13 +104,7 @@ inicio de la página o para poder añadir al carrito las reservas que queremos
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 Realizamos una malla receptora de información en el proceso de ideación
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| a | b
-  Preguntas | Nuevas ideas
+![MallaReceptora](P2/MallaReceptora.png)
   
     
 >>> Propuesta de valor 
