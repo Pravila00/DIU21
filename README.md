@@ -185,7 +185,9 @@ Modificar reseña | Modifica el contenido de una reseña previa
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-![Bocetos](P2/BocetoImagen.png)
+![Bocetos](P2/boceto-1.png)
+![Bocetos](P2/boceto-2.png)
+![Bocetos](P2/boceto-3.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
