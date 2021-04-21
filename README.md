@@ -123,6 +123,25 @@ inicio de la página o para poder añadir al carrito las reservas que queremos
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
 >>> Propuesta de valor 
+>>> 
+El proyecto se basa en la idea de la Ruta de la Tapa en Granada. Esta app
+favorecerá tanto el turismo de Granada como a la hostelería granadina. Estará
+enfocada en personas no residentes en Granada, principalmente estará destinada a
+extranjeros provenientes de Europa o Asia.
+La app mostrará un mapa de la ciudad granadina con los diferentes puntos a visitar
+de la ruta. Cada punto de la ruta corresponde a un restaurante. Esta ruta empezará
+en la Chana y terminará en el Zaidín de manera que los visitantes acabarán
+recorriendo la ciudad. La ruta contendrá restaurantes situados en puntos de interés
+turístico como la Alhambra o el Albayzín, fomentando así tanto el interés
+gastronómico como cultural.
+El usuario al completar la ruta podrá dejar comentarios acerca de ella y haciendo
+propuestas para mejorarla. Esta propuesta puede contener la ruta modificada oincluso crear una de cero. Estas propuestas se añadirán a las sección de Rutas de
+la Comunidad.
+Frecuentemente se ofrecerán además de las rutas oficiales, rutas basadas en estas
+pero con modificaciones, con nuevas paradas o sin algunas antiguas, por ejemplo,
+si se prevé un evento interesante se podría cambiar la ruta para pasar cerca de
+dicho evento.
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
@@ -138,13 +157,36 @@ inicio de la página o para poder añadir al carrito las reservas que queremos
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+Inicio  | Contiene información sobre rutas yreseñas, nos redirige a accionesrelacionadas con estas.
+Rutas disponibles | Contiene información sobre las rutas que se pueden realizar actualmente
+Mis rutas | Gestiona las rutas del usuario
+Mis reseñas | Gestiona las reseñas del usuario
+Rutas oficiales | Muestra las rutas creadas por el sistema
+Rutas de la comunidad | Muestra las rutas creadas por losusuarios y permite llevar acciones sobre ellas
+Mapa | Muestra gráficamente las rutas, es un mapa político con líneas y puntos, donde los puntos son restaurantes de tapas y las líneas caminos para llegar de un nodo a otro
+Seleccionar ruta | Permite escoger la ruta sobre la que se llevarán a cabo las acciones
+Añadir ruta | Añade una ruta a las rutas de usuario
+Compartir | Genera un mensaje con información relevante sobre una ruta, dicho mensaje se puede enviar por otras aplicaciones (Whatsapp, Telegram, Instagram, Facebook, etc)
+Crear ruta | Permite al usuario crear una ruta propia
+Rutas en curso | Muestra las rutas que ha comenzado el usuario, puede haber más de una iniciada a la vez
+Rutas completadas | Gestiona las rutas que el usuario ya completó
+Desde 0 | Crea una ruta completamente nueva, desde cero
+Desde una ya existente | Crea una ruta basándose en otra ruta que ya existe, añadiendo nuevos nodos, eliminando viejos, nuevas uniones, etc
+Lista de rutas completadas | Muestra una lista con todas las rutas que el usuario haya completado
+Mostrar todas rutas | Muestra todas las rutas del usuario
+Eliminar | Permite eliminar una ruta
+Nueva reseña | Crea una nueva reseña
+Eliminar reseña | Elimina una reseña anterior
+Compartir reseña | Genera un mensaje con toda la información relativa a una reseña y permite enviarlo por distintos medios(Whatsapp, Telegram, Instagram, Facebook, etc)
+Modificar reseña | Modifica el contenido de una reseña previa
+  
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+![Bocetos](P2/BocetoImagen.png)
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
