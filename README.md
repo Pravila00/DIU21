@@ -5,14 +5,9 @@ Grupo: DIU3_We-Robot.  Curso: 2020/21
 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
->>> 
 >>> Tapeo por Granada
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
->>>
 >>> El proyecto se basa en la idea de la Ruta de la Tapa en Granada. Esta app
 favorecerá tanto el turismo de Granada como a la hostelería granadina.
 La app mostrará un mapa de la ciudad granadina con los diferentes puntos a visitar
