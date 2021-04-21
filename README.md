@@ -6,28 +6,17 @@ Grupo: DIU3_We-Robot.  Curso: 2020/21
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> 
 >>> Tapeo por Granada
 
 Descripción: 
 
 >>> Describa la idea de su producto en la práctica 2 
+>>>
 >>> El proyecto se basa en la idea de la Ruta de la Tapa en Granada. Esta app
-favorecerá tanto el turismo de Granada como a la hostelería granadina. Estará
-enfocada en personas no residentes en Granada, principalmente estará destinada a
-extranjeros provenientes de Europa o Asia.
+favorecerá tanto el turismo de Granada como a la hostelería granadina.
 La app mostrará un mapa de la ciudad granadina con los diferentes puntos a visitar
-de la ruta. Cada punto de la ruta corresponde a un restaurante. Esta ruta empezará
-en la Chana y terminará en el Zaidín de manera que los visitantes acabarán
-recorriendo la ciudad. La ruta contendrá restaurantes situados en puntos de interés
-turístico como la Alhambra o el Albayzín, fomentando así tanto el interés
-gastronómico como cultural.
-El usuario al completar la ruta podrá dejar comentarios acerca de ella y haciendo
-propuestas para mejorarla. Esta propuesta puede contener la ruta modificada oincluso crear una de cero. Estas propuestas se añadirán a las sección de Rutas de
-la Comunidad.
-Frecuentemente se ofrecerán además de las rutas oficiales, rutas basadas en estas
-pero con modificaciones, con nuevas paradas o sin algunas antiguas, por ejemplo,
-si se prevé un evento interesante se podría cambiar la ruta para pasar cerca de
-dicho evento.
+de la ruta. Cada punto de la ruta corresponde a un restaurante.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -37,11 +26,6 @@ Miembros
  * :bust_in_silhouette:  Ahmed El Moukhtari Koubaa     :octocat:
 
 ----- 
-
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
