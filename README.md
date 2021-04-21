@@ -103,25 +103,16 @@ inicio de la página o para poder añadir al carrito las reservas que queremos
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
-
+Realizamos una malla receptora de información en el proceso de ideación
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
  Interesante | Críticas     
-| ------------- | -------
+| a | b
   Preguntas | Nuevas ideas
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
-
-
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
 >>> Propuesta de valor 
 >>> 
 El proyecto se basa en la idea de la Ruta de la Tapa en Granada. Esta app
@@ -143,17 +134,32 @@ si se prevé un evento interesante se podría cambiar la ruta para pasar cerca d
 dicho evento.
 
 
+
+
+![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+----
+Si desea visualizar el Scope Canvas en PDF también puede.
+![ScopeCanvas](P2/Canvas.pdf) 
+![Método UX](P2/canvas.png)
+
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
+En lugar de un User/Task flow, elegimos la matriz de tareas/usuario debido a que facilita
+la representación de la información.
+L = Low
+M = Medium
+H = High
+![Método UX](P2/AnalisisTareas.png)
 
->>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
+>>> Sitemap
+![Método UX](P2/Mapsite.png)
 
 
->>> Identificar términos para diálogo con usuario  
+>>> Labelling  
 
 Término | Significado     
 | ------------- | -------
