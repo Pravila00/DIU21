@@ -239,7 +239,6 @@ Estas imágenes mezclan los conceptos que queremos reflejar en nuestra app, los 
 >>> **Guidelines**
 >>> 
 Para el diseño de nuestra app utilizaremos los Guidelines de Apple en sistemas iOS.
-Para documentarnos sobre su diseño utilizamos el siguiente sitio web enfocado a desarrolladores: https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
 Los principales conceptos que usa iOS en su diseño son:
 -Claridad: el texto debe ser legible en cualquier tamaño, los iconos deben ser precios y los adornos tienen que ser apropiados.
 -Profundidad: varias capas distintas apoertar una visión jerárquica y facilitan al usuario la comprensión.
@@ -247,7 +246,6 @@ Los principales conceptos que usa iOS en su diseño son:
 
 >>> **Patrones**
 >>> 
-Para documentarnos sobre los patrones usamos: http://ui-patterns.com/
 En concreto estudiamos patrones para la barra de navegación de la app y también para la búsqueda en las rutas de la comunidad.
 Para la barra de navegación mostraremos una estructura jerárquica donde se muestran los niveles de profundidad.
 Respecto a la búsqueda de las rutas de la comunidad, diseñaremos una caja de búsqueda donde el usuario podra escribir etiquetas que posteriormente se buscarán concordancias. Estas etiquetas pueden ser el nombre de la ruta, los nombres de los sitios por donde pasa la ruta o incluso el nombre del usuario.
