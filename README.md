@@ -198,11 +198,13 @@ Modificar reseña | Modifica el contenido de una reseña previa
 Para la creación del Moodboard utilizamos el siguiente sitio web donde puede consultar nuestro diseño: https://app.milanote.com/1LBKAK17SJQPes/spontour
 
 >>>**Logotipo**
+>>>
 ![Logotipo](P3/img/logotipo.png)
 >>>El logotipo de la aplicación lo obtuvimos en un generador de logotipos que utiliza IA para orginar un logotipo a través de unas determinadas palabras claves: 
 >>> El logotipo en un principio no lo usaríamos como cabecera de Twitter ya que es un logo que encajaria más bien en una foto de perfil que en un banner de Twitter, ya que este es un rectángulo bastante alargado y no concordaría con el diseño de nuestro logotipo.
 
 >>>**Fuentes**
+>>>
 >>> Las posibles fuentes que pensamos en usar son: 
 >>> ![Fuente](P3/img/badscript.png)
 >>> https://fonts.google.com/specimen/Bad+Script
@@ -211,6 +213,7 @@ Para la creación del Moodboard utilizamos el siguiente sitio web donde puede co
 >>> El principal objetivo al escoger estas fuentes es que fueran fuentes que legibles para que el mensaje llegara de forma sencilla al usuario.
 
 >>> **Paletas de colores**
+>>> 
 >>> La paleta de colores escogida es:
 - ![#2F8F8B](https://via.placeholder.com/15/2f8f8b/000000?text=+) `#2f8f8b`
 - ![#96D219](https://via.placeholder.com/15/96d219/000000?text=+) `#96d219`
