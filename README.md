@@ -249,7 +249,7 @@ Los principales conceptos que usa iOS en su diseño son:
 En concreto estudiamos patrones para la barra de navegación de la app y también para la búsqueda en las rutas de la comunidad.
 Para la barra de navegación mostraremos una estructura jerárquica donde se muestran los niveles de profundidad.
 Respecto a la búsqueda de las rutas de la comunidad, diseñaremos una caja de búsqueda donde el usuario podra escribir etiquetas que posteriormente se buscarán concordancias. Estas etiquetas pueden ser el nombre de la ruta, los nombres de los sitios por donde pasa la ruta o incluso el nombre del usuario.
-
+Por otro lado, tambien implementaremos patrones para mostrar items en lista con scroll.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
