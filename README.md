@@ -200,7 +200,7 @@ Para la creación del Moodboard utilizamos el siguiente sitio web donde puede co
 >>>**Logotipo**
 >>>
 ![Logotipo](P3/img/logotipo.png)
-El logotipo de la aplicación lo obtuvimos en un generador de logotipos que utiliza IA para orginar un logotipo a través de unas determinadas palabras claves: 
+El logotipo de la aplicación lo obtuvimos en un generador de logotipos que utiliza IA para orginar un logotipo a través de unas determinadas palabras claves: https://namelix.com/
 El logotipo en un principio no lo usaríamos como cabecera de Twitter ya que es un logo que encajaria más bien en una foto de perfil que en un banner de Twitter, ya que este es un rectángulo bastante alargado y no concordaría con el diseño de nuestro logotipo.
 
 >>>**Fuentes**
@@ -234,11 +234,18 @@ Estas imágenes mezclan los conceptos que queremos reflejar en nuestra app, los 
 ![LandPage](P3/land_page.png)
 
 
-![Método UX](img/guidelines.png) 3.c Guidelines
+![Método UX](img/guidelines.png) 3.c Guidelines y patrones
 ----
+**Guidelines**
+Para el diseño de nuestra app utilizaremos los Guidelines de Apple en sistemas iOS.
+Para documentarnos sobre su diseño utilizamos el siguiente sitio web enfocado a desarrolladores: https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/
+Los principales conceptos que usa iOS en su diseño son:
+-Claridad: el texto debe ser legible en cualquier tamaño, los iconos deben ser precios y los adornos tienen que ser apropiados.
+-Profundidad: varias capas distintas apoertar una visión jerárquica y facilitan al usuario la comprensión.
+-Deferencia: es importante un movimiento fluido y nítido.
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+**Patrones
+Para documentarnos sobre los patrones usamos: http://ui-patterns.com/
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
