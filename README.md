@@ -231,7 +231,7 @@ Estas imágenes mezclan los conceptos que queremos reflejar en nuestra app, los 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-![LandPage](P3/landpage.png)
+![LandPage](P3/land_page.png)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
