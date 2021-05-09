@@ -197,10 +197,12 @@ Modificar reseña | Modifica el contenido de una reseña previa
 -----
 Para la creación del Moodboard utilizamos el siguiente sitio web donde puede consultar nuestro diseño: https://app.milanote.com/1LBKAK17SJQPes/spontour
 
+>>>**Logotipo**
 ![Logotipo](P3/img/logotipo.png)
 >>>El logotipo de la aplicación lo obtuvimos en un generador de logotipos que utiliza IA para orginar un logotipo a través de unas determinadas palabras claves: 
 >>> El logotipo en un principio no lo usaríamos como cabecera de Twitter ya que es un logo que encajaria más bien en una foto de perfil que en un banner de Twitter, ya que este es un rectángulo bastante alargado y no concordaría con el diseño de nuestro logotipo.
 
+>>>**Fuentes**
 >>> Las posibles fuentes que pensamos en usar son: 
 >>> ![Fuente](P3/img/badscript.png)
 >>> https://fonts.google.com/specimen/Bad+Script
@@ -208,7 +210,7 @@ Para la creación del Moodboard utilizamos el siguiente sitio web donde puede co
 >>> https://fonts.google.com/specimen/Comfortaa
 >>> El principal objetivo al escoger estas fuentes es que fueran fuentes que legibles para que el mensaje llegara de forma sencilla al usuario.
 
->>> Paletas de colores
+>>> **Paletas de colores**
 >>> La paleta de colores escogida es:
 - ![#2F8F8B](https://via.placeholder.com/15/2f8f8b/000000?text=+) `#2f8f8b`
 - ![#96D219](https://via.placeholder.com/15/96d219/000000?text=+) `#96d219`
@@ -216,12 +218,7 @@ Para la creación del Moodboard utilizamos el siguiente sitio web donde puede co
 >>>Hemos seleccionado el color azul (#2F8F8B) como color principal porque representa a la ciudad de Granada (buen tiempo y clima, cielo despejado, etc). El verde representa los jardines de la Alhambra y junto al rojo la bandera de Granada.
 >>>Por otro lado, escogemos el azul como color principal por significar amabilidad, simpatía y ser el favorito de la mayoría y con intención de que capte la atención de los turistas del norte. El color verde hace referencia a la ciudad de Granada y a su naturaleza. El color rojo representa comidas  exóticas y algo nuevo.
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
->>> Imágenes inspiradoras
+>>> **Imágenes inspiradoras**
 >>> ![Imagen_inspiradora](P3/img/imagen_inspirador1.png)
 >>> ![Imagen_inspiradora](P3/img/imagen_inspirador2.png)
 >>> ![Imagen_inspiradora](P3/img/imagen_inspirador3.png)
