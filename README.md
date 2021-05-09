@@ -252,8 +252,8 @@ Respecto a la búsqueda de las rutas de la comunidad, diseñaremos una caja de b
 Por otro lado, tambien implementaremos patrones para mostrar items en lista con scroll.
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+Para el Mockup utilizaremos la herramienta Adobe XD.
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
