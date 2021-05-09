@@ -222,10 +222,10 @@ Para la creación del Moodboard utilizamos el siguiente sitio web donde puede co
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
 >>> Imágenes inspiradoras
->>> [!Imagen_inspiradora](P3/img/imagen_inspirador1.png)
->>> [!Imagen_inspiradora](P3/img/imagen_inspirador2.png)
->>> [!Imagen_inspiradora](P3/img/imagen_inspirador3.png)
->>> [!Imagen_inspiradora](P3/img/imagen_inspirador4.png)
+>>> ![Imagen_inspiradora](P3/img/imagen_inspirador1.png)
+>>> ![Imagen_inspiradora](P3/img/imagen_inspirador2.png)
+>>> ![Imagen_inspiradora](P3/img/imagen_inspirador3.png)
+>>> ![Imagen_inspiradora](P3/img/imagen_inspirador4.png)
 Estas imágenes mezclan los conceptos que queremos reflejar en nuestra app, los lugares icónicos del turismo en Granada junto a su gastronomía.
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
