@@ -253,7 +253,6 @@ Por otro lado, tambien implementaremos patrones para mostrar items en lista con 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-Para el Mockup utilizaremos la herramienta Adobe XD.
 ![Mockup](P3/img/pantalla_inicio.png) 
 ![Mockup](P3/img/crear_rutas.png) 
 ![Mockup](P3/img/ver_rutas.png) 
@@ -264,8 +263,8 @@ Para el Mockup utilizaremos la herramienta Adobe XD.
 
 ![Método UX](img/caseStudy.png) 
 3.e My UX-Case Study
-En el siguiente video se puede observar la transición entre pantallas:
-https://drive.google.com/file/d/16xLBVp5mZkHaBh2inltgJbt2CQrTNQtL/view?usp=sharing
+>>> En el siguiente video se puede observar la transición entre pantallas:
+>>> https://drive.google.com/file/d/16xLBVp5mZkHaBh2inltgJbt2CQrTNQtL/view?usp=sharing
 
 
 ## Paso 4. Evaluación 
