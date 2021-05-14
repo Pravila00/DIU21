@@ -254,11 +254,11 @@ Por otro lado, tambien implementaremos patrones para mostrar items en lista con 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 Para el Mockup utilizaremos la herramienta Adobe XD.
-![Mockup](img/pantalla_inicio.png) 
-![Mockup](img/crear_rutas.png) 
-![Mockup](img/ver_rutas.png) 
-![Mockup](img/rutas_disponibles.png) 
-![Mockup](img/mis reseñas.png) 
+![Mockup](P3/img/pantalla_inicio.png) 
+![Mockup](P3/img/crear_rutas.png) 
+![Mockup](P3/img/ver_rutas.png) 
+![Mockup](P3/img/rutas_disponibles.png) 
+![Mockup](P3/img/mis reseñas.png) 
 
 
 
