@@ -254,15 +254,17 @@ Por otro lado, tambien implementaremos patrones para mostrar items en lista con 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 Para el Mockup utilizaremos la herramienta Adobe XD.
+![Mockup](img/pantalla_inicio.png) 
+![Mockup](img/crear_rutas.png) 
+![Mockup](img/ver_rutas.png) 
+![Mockup](img/rutas_disponibles.png) 
+![Mockup](img/mis reseñas.png) 
 
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+![Método UX](img/caseStudy.png) 3.e My UX-Case Study
+En el siguiente video se puede observar la transición entre pantallas:
+https://drive.google.com/file/d/16xLBVp5mZkHaBh2inltgJbt2CQrTNQtL/view?usp=sharing
 
 
 ## Paso 4. Evaluación 
