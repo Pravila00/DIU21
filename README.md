@@ -258,11 +258,12 @@ Para el Mockup utilizaremos la herramienta Adobe XD.
 ![Mockup](P3/img/crear_rutas.png) 
 ![Mockup](P3/img/ver_rutas.png) 
 ![Mockup](P3/img/rutas_disponibles.png) 
-![Mockup](P3/img/mis reseñas.png) 
+![Mockup](P3/img/mis_reseñas.png) 
 
 
 
-![Método UX](img/caseStudy.png) 3.e My UX-Case Study
+![Método UX](img/caseStudy.png) 
+3.e My UX-Case Study
 En el siguiente video se puede observar la transición entre pantallas:
 https://drive.google.com/file/d/16xLBVp5mZkHaBh2inltgJbt2CQrTNQtL/view?usp=sharing
 
