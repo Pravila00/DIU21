@@ -58,7 +58,7 @@ Para la barra de navegación mostraremos una estructura jerárquica donde se mue
 Respecto a la búsqueda de las rutas de la comunidad, diseñaremos una caja de búsqueda donde el usuario podra escribir etiquetas que posteriormente se buscarán concordancias. Estas etiquetas pueden ser el nombre de la ruta, los nombres de los sitios por donde pasa la ruta o incluso el nombre del usuario.
 Por otro lado, tambien implementaremos patrones para mostrar items en lista con scroll.
 
-![Método UX](img/mockup.png)  3.d Mockup
+![Método UX](../img/mockup.png)  3.d Mockup
 ----
 ![Mockup](img/pantalla_inicio.png) 
 ![Mockup](img/crear_rutas.png) 
