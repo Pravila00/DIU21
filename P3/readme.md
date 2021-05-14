@@ -1,21 +1,21 @@
 # DIU - Practica 3, entregables
 
-![Método UX](img/moodboard.png) 3.a Moodboard
+![Método UX](../img/moodboard.png) 3.a Moodboard
 -----
 Para la creación del Moodboard utilizamos el siguiente sitio web donde puede consultar nuestro diseño: https://app.milanote.com/1LBKAK17SJQPes/spontour
 
 >>>**Logotipo**
 >>>
-![Logotipo](P3/img/logotipo.png)
+![Logotipo](img/logotipo.png)
 El logotipo de la aplicación lo obtuvimos en un generador de logotipos que utiliza IA para orginar un logotipo a través de unas determinadas palabras claves: https://namelix.com/
 El logotipo en un principio no lo usaríamos como cabecera de Twitter ya que es un logo que encajaria más bien en una foto de perfil que en un banner de Twitter, ya que este es un rectángulo bastante alargado y no concordaría con el diseño de nuestro logotipo.
 
 >>>**Fuentes**
 >>>
 Las posibles fuentes que pensamos en usar son: 
-![Fuente](P3/img/badscript.png)
+![Fuente](img/badscript.png)
 https://fonts.google.com/specimen/Bad+Script
-![Fuente](P3/img/comfortaa.png)
+![Fuente](img/comfortaa.png)
 https://fonts.google.com/specimen/Comfortaa
 El principal objetivo al escoger estas fuentes es que fueran fuentes que legibles para que el mensaje llegara de forma sencilla al usuario.
 
@@ -29,19 +29,19 @@ Por otro lado, escogemos el azul como color principal por significar amabilidad,
 
 >>> **Imágenes inspiradoras**
 >>> 
-![Imagen_inspiradora](P3/img/imagen_inspirador1.png)
-![Imagen_inspiradora](P3/img/imagen_inspirador2.png)
-![Imagen_inspiradora](P3/img/imagen_inspirador3.png)
-![Imagen_inspiradora](P3/img/imagen_inspirador4.png)
+![Imagen_inspiradora](img/imagen_inspirador1.png)
+![Imagen_inspiradora](img/imagen_inspirador2.png)
+![Imagen_inspiradora](img/imagen_inspirador3.png)
+![Imagen_inspiradora](img/imagen_inspirador4.png)
 Estas imágenes mezclan los conceptos que queremos reflejar en nuestra app, los lugares icónicos del turismo en Granada junto a su gastronomía.
 
-![Método UX](img/landing-page.png)  3.b Landing Page
+![Método UX](../img/landing-page.png)  3.b Landing Page
 ----
 
-![LandPage](P3/land_page.png)
+![LandPage](img/land_page.png)
 
 
-![Método UX](img/guidelines.png) 3.c Guidelines y patrones
+![Método UX](../img/guidelines.png) 3.c Guidelines y patrones
 ---
 >>> **Guidelines**
 >>> 
@@ -60,15 +60,15 @@ Por otro lado, tambien implementaremos patrones para mostrar items en lista con 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-![Mockup](P3/img/pantalla_inicio.png) 
-![Mockup](P3/img/crear_rutas.png) 
-![Mockup](P3/img/ver_rutas.png) 
-![Mockup](P3/img/rutas_disponibles.png) 
-![Mockup](P3/img/mis_reseñas.png) 
+![Mockup](img/pantalla_inicio.png) 
+![Mockup](img/crear_rutas.png) 
+![Mockup](img/ver_rutas.png) 
+![Mockup](img/rutas_disponibles.png) 
+![Mockup](img/mis_reseñas.png) 
 
 
 
-![Método UX](img/caseStudy.png) 
+![Método UX](../img/caseStudy.png) 
 3.e My UX-Case Study
 >>> En el siguiente video se puede observar la transición entre pantallas:
 >>> https://drive.google.com/file/d/16xLBVp5mZkHaBh2inltgJbt2CQrTNQtL/view?usp=sharing
