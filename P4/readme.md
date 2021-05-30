@@ -38,7 +38,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.1 Usuario Laura (Evalúa A WeRobot)
 
-| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+|    | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Creo que me gustará visitar con frecuencia este website || | | x | |
 | 2 | Encontré el website innecesariamente complejo || x | | | |
@@ -50,7 +50,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo || x | | | |
 | 9 | Me sentí muy confiado en el manejo del website  || | | | x |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | x| | | | |
-| x | Valoración final | 33 x 2.5 = 82.5 |
+|   | Valoración final | 33 x 2.5 = 82.5 |
 
 ###
 
