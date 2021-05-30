@@ -7,12 +7,12 @@
 # Equipo: WeRobot
 
 ## Caso 1: GRANADING
-(Mastodontes): [https://github.com/eProw/DIU21](https://github.com/eProw/DIU21)
+[(Mastodontes)](https://github.com/eProw/DIU21)
 
-Granadaing es una aplicación de turismo para gente interesada en la ciudad de Granada, centrada en ofrecer una experiencia fluida y satisfactoria para visitar la provincia con todo lujo de detalles.
+Granading es una aplicación de turismo para gente interesada en la ciudad de Granada, centrada en ofrecer una experiencia fluida y satisfactoria para visitar la provincia con todo lujo de detalles.
 
 ## Caso 2: SponTour
-(We\_Robot): [https://github.com/Pravila00/DIU21](https://github.com/Pravila00/DIU21)
+[(We\_Robot)](https://github.com/Pravila00/DIU21)
 
 Spontour es una aplicacion diseñada para conocer Granada desde el punto de vista gastronómico. Ofrece rutas donde cada parada es un restaurante donde puedes comer y disfrutar de la ciudad de Granada. Además, el usuario tiene la capacidad de añadir sus propias rutas, compartirlas y de reseñar otras rutas. Con SponTour descubrirás una Granada que nuna antes habías visto.
 
@@ -184,7 +184,7 @@ Usability Scale Test (SUS) y un A/B testing. Los resultados de las pruebas se de
 
   Por otro lado, Sara sí que ha tenido un buen manejo en esta aplicación ya que es una persona que controla algo de tecnologías IT. No obstante, Sara cree que las opciones de ajuste personal se quedan un poco cortas, ya que no se pueden cambiar los datos personales. Solo puede tocar ajustes de privacidad como ubicación y la activación de notificaciones. Por este motivo, estaría bien que se incluyera a la app una zona con un formulario para el ajuste de datos personales.
 
-  En general, la aplicación es intuitiva pero tiene demasiada información, además de algunas opciones que requieren de varios pasos para llegar a ellas, por lo que se podría decir que están ocultas. Otra pequeña mejora consistiría en situar la barra de búsqueda en la parte más próxima a la cabecera, puesto que ahora está bastante abajo y eso podría restarle importancia a su funcionalidad. Por otro lado, tampoco queda claro cómo llegar hasta la pantalla de cambio de idioma.
+  En general, la aplicación es intuitiva pero tiene demasiada información, además de algunas opciones que requieren de varios pasos para llegar a ellas, por lo que se podría decir que están ocultas. Otra pequeña mejora consistiría en situar la barra de búsqueda en la parte más próxima a la cabecera, puesto que ahora está bastante abajo y eso podría restarle importancia a su funcionalidad. Por otro lado, tampoco queda claro cómo llegar hasta la pantalla de cambio de idioma y eso supone un problema para alguien que no entiende el idioma actual de la aplicación.
 
 ## **4. Conclusión**
 
