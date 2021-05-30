@@ -4,7 +4,7 @@
 
 ![](RackMultipart20210530-4-185wh7w_html_a1d3706f9f858a58.jpg)
 
-Equipo: WeRobot
+# Equipo: WeRobot
 
 Equipo A (We\_Robot): [https://github.com/Pravila00/DIU21](https://github.com/Pravila00/DIU21)
 
