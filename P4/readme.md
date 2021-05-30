@@ -50,6 +50,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo || x | | | |
 | 9 | Me sentí muy confiado en el manejo del website  || | | | x |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | x| | | | |
+| --- | --- | --- | 
 |   | Valoración final | 33 x 2.5 = 82.5 |
 
 ###
@@ -75,6 +76,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo | x | | | | |
 | 9 | Me sentí muy confiado en el manejo del website  | | | | x | |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | | | x | | |
+| --- | --- | --- | 
 |  | Valoración final | 25 x 2.5 = 62.5 |
 
 ###
@@ -106,6 +108,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo | | X | | | |
 | 9 | Me sentí muy confiado en el manejo del website  | | | | | X |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | X || | | |
+| --- | --- | --- | 
 |  | Valoración final | 35 x 2,5 = 87,5 |
 
 ###
@@ -131,6 +134,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo | | | X | | |
 | 9 | Me sentí muy confiado en el manejo del website  | | | | | X |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | X | | | | |
+| --- | --- | --- | 
 |    | Valoración final | 34 x 2.5 = 85 |
 
 ### 2.5 Conclusiones A/B sacadas del test
