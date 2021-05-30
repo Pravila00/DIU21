@@ -63,7 +63,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.2 Usuario Paco (Evalúa B Mastodonte)
 
-| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+|  | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Creo que me gustará visitar con frecuencia este website | | | x | | |
 | 2 | Encontré el website innecesariamente complejo | | | | | x |
@@ -75,7 +75,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo | x | | | | |
 | 9 | Me sentí muy confiado en el manejo del website  | | | | x | |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | | | x | | |
-| x | Valoración final | 25 x 2.5 = 62.5 |
+|  | Valoración final | 25 x 2.5 = 62.5 |
 
 ###
 
@@ -94,59 +94,19 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.3 Usuario Luis (Evalúa A WeRobot)
 
-| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+|  | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Creo que me gustará visitar con frecuencia este website |
- |
- | X |
- |
- |
-| 2 | Encontré el website innecesariamente complejo |
- | X |
- |
- |
- |
-| 3 | Pensé que era fácil utilizar este website |
- |
- |
- |
- | X |
-| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | X |
- |
- |
- |
- |
-| 5 | Encontré las funciones del website bastante bien integradas |
- |
- |
- |
- | X |
-| 6 | Pensé que había demasiada inconsistencia en el website |
- | X |
- |
- |
- |
-| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |
- |
- |
- |
- | X |
-| 8 | Encontré el website muy grande al recorrerlo |
- | X |
- |
- |
- |
-| 9 | Me sentí muy confiado en el manejo del website  |
- |
- |
- |
- | X |
-| 10 | Necesito aprender muchas cosas antes de manejarse en el website  | X |
- |
- |
- |
- |
-| x | Valoración final | 35 x 2,5 = 87,5 |
+| 1 | Creo que me gustará visitar con frecuencia este website | | | X | | |
+| 2 | Encontré el website innecesariamente complejo | | X | | | |
+| 3 | Pensé que era fácil utilizar este website | | | | | X |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | X | | | | |
+| 5 | Encontré las funciones del website bastante bien integradas | | | | | X |
+| 6 | Pensé que había demasiada inconsistencia en el website | | X | | | |
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | | X |
+| 8 | Encontré el website muy grande al recorrerlo | | X | | | |
+| 9 | Me sentí muy confiado en el manejo del website  | | | | | X |
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website  | X || | | |
+|  | Valoración final | 35 x 2,5 = 87,5 |
 
 ###
 
@@ -159,59 +119,19 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.4 Usuario Sara (Evalúa B Mastodontes)
 
-| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+|    | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Creo que me gustará visitar con frecuencia este website |
- |
- |
- | X |
- |
-| 2 | Encontré el website innecesariamente complejo |
- | X |
- |
- |
- |
-| 3 | Pensé que era fácil utilizar este website |
- |
- |
- | X |
- |
-| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website |
- | X |
- |
- |
- |
-| 5 | Encontré las funciones del website bastante bien integradas |
- |
- |
- |
- | X |
-| 6 | Pensé que había demasiada inconsistencia en el website | X |
- |
- |
- |
- |
-| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |
- |
- |
- |
- | X |
-| 8 | Encontré el website muy grande al recorrerlo |
- |
- | X |
- |
- |
-| 9 | Me sentí muy confiado en el manejo del website  |
- |
- |
- |
- | X |
-| 10 | Necesito aprender muchas cosas antes de manejarse en el website  | X |
- |
- |
- |
- |
-| x | Valoración final | 34 x 2.5 = 85 |
+| 1 | Creo que me gustará visitar con frecuencia este website || | | X | |
+| 2 | Encontré el website innecesariamente complejo | | X | | | |
+| 3 | Pensé que era fácil utilizar este website | | | | X | |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | | X | | | |
+| 5 | Encontré las funciones del website bastante bien integradas | | | | | X |
+| 6 | Pensé que había demasiada inconsistencia en el website | X | | | | |
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | | X |
+| 8 | Encontré el website muy grande al recorrerlo | | | X | | |
+| 9 | Me sentí muy confiado en el manejo del website  | | | | | X |
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website  | X | | | | |
+|    | Valoración final | 34 x 2.5 = 85 |
 
 ### 2.5 Conclusiones A/B sacadas del test
 
