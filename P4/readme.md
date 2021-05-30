@@ -50,7 +50,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 8 | Encontré el website muy grande al recorrerlo || x | | | |
 | 9 | Me sentí muy confiado en el manejo del website  || | | | x |
 | 10 | Necesito aprender muchas cosas antes de manejarse en el website  | x| | | | |
-|   | Valoración final | 33 x 2.5 = 82.5 |
+|   | Valoración final | 33 x 2.5 = 82.5 |||||
 
 ###
 
