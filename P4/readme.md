@@ -2,7 +2,7 @@
 
 # DIU 2020-2021
 
-![](RackMultipart20210530-4-pt0b96_html_a1d3706f9f858a58.jpg)
+![](RackMultipart20210530-4-185wh7w_html_a1d3706f9f858a58.jpg)
 
 Equipo: WeRobot
 
@@ -21,10 +21,10 @@ Nuestros usuarios ficticios tendrán las siguientes características:
 
 | Usuario | Sexo/ Edad | Ocupación | Experiencia internet | Plataforma | Perfil cubierto | Test |
 | --- | --- | --- | --- | --- | --- | --- |
-| Laura | 23/Mujer | Enfermera | Intermedio | Windows | -Sociable -Le gusta pasear -Feliz | A |
-| Paco | 43/ Hombre | Abogado | Bajo | Phone | -Solitario -Bailar es su pasión -Enfadado/agobiado | B |
-| Luis | 27 / Hombre | Informático | Avanzado | Linux | ·Trabajdor ·Le gustan los idiomas ·Triste | A |
-| Sara | 50 /Mujer | Fotógrafa | Media | Mac | ·Familiar ·Le gusta la fotografía ·Asustadiza | B |
+| Laura | 23/Mujer | Enfermera | Intermedio | Windows | -Sociable -Le gusta pasear-Feliz | A |
+| Paco | 43/Hombre | Abogado | Bajo | Phone | -Solitario -Bailar es su pasión-Enfadado/agobiado | B |
+| Luis | 27 / Hombre | Informático | Avanzado | Linux | ·Trabajdor ·Le gustan los idiomas·Triste | A |
+| Sara | 50 /Mujer | Fotógrafa | Media | Mac | ·Familiar ·Le gusta la fotografía·Asustadiza | B |
 
 ###
 
@@ -38,61 +38,20 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.1 Usuario Laura (Evalúa A WeRobot)
 
-|
- | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Creo que me gustará visitar con frecuencia este website |
+| 1 | Creo que me gustará visitar con frecuencia este website | | | | x | |
+| 2 | Encontré el website innecesariamente complejo | | x | | | |
+| 3 | Pensé que era fácil utilizar este website | | | | x | |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | x | | | |
  |
- |
- | x |
- |
-| 2 | Encontré el website innecesariamente complejo |
- | x |
- |
- |
- |
-| 3 | Pensé que era fácil utilizar este website |
- |
- |
- | x |
- |
-| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | x |
- |
- |
- |
- |
-| 5 | Encontré las funciones del website bastante bien integradas |
- |
- | x |
- |
- |
-| 6 | Pensé que había demasiada inconsistencia en el website | x |
- |
- |
- |
- |
-| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website |
- |
- |
- | x |
- |
-| 8 | Encontré el website muy grande al recorrerlo |
- | x |
- |
- |
- |
-| 9 | Me sentí muy confiado en el manejo del website  |
- |
- |
- |
- | x |
-| 10 | Necesito aprender muchas cosas antes de manejarse en el website  | x |
- |
- |
- |
- |
-|
- | Valoración final | 33 x 2.5 = 82.5 |
+| 5 | Encontré las funciones del website bastante bien integradas | | | x | | |
+| 6 | Pensé que había demasiada inconsistencia en el website | x | | | | |
+| 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | x | |
+| 8 | Encontré el website muy grande al recorrerlo | | x | | | |
+| 9 | Me sentí muy confiado en el manejo del website  | | | | | x |
+| 10 | Necesito aprender muchas cosas antes de manejarse en el website  | x | | | | |
+| x | Valoración final | 33 x 2.5 = 82.5 |
 
 ###
 
@@ -105,8 +64,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.2 Usuario Paco (Evalúa B Mastodonte)
 
-|
- | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Creo que me gustará visitar con frecuencia este website |
  |
@@ -158,8 +116,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
  | x |
  |
  |
-|
- | Valoración final | 25 x 2.5 = 62.5 |
+| x | Valoración final | 25 x 2.5 = 62.5 |
 
 ###
 
@@ -178,8 +135,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.3 Usuario Luis (Evalúa A WeRobot)
 
-|
- | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Creo que me gustará visitar con frecuencia este website |
  |
@@ -231,8 +187,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
  |
  |
  |
-|
- | Valoración final | 35 x 2,5 = 87,5 |
+| x | Valoración final | 35 x 2,5 = 87,5 |
 
 ###
 
@@ -245,8 +200,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 
 ### 2.4 Usuario Sara (Evalúa B Mastodontes)
 
-|
- | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
+| id | PREGUNTAS | 1 | 2 | 3 | 4 | 5 |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Creo que me gustará visitar con frecuencia este website |
  |
@@ -298,8 +252,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
  |
  |
  |
-|
- | Valoración final | 34 x 2.5 = 85 |
+| x | Valoración final | 34 x 2.5 = 85 |
 
 ### 2.5 Conclusiones A/B sacadas del test
 
