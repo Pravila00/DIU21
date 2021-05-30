@@ -17,32 +17,32 @@ Spontour es una aplicacion diseñada para conocer Granada desde el punto de vist
 
 ## User Testing
 
-	Para llevar a cabo la parte de testing, hemos creado 4 perfiles de usuarios variados y distintos entre sí de manera aleatoria
-	mediante la tirada de dados. El siguiente paso fue identificar dichos perfiles con personas del mundo real para tener una 
-	opinión objetiva y lo más precisa posible.
+  Para llevar a cabo la parte de testing, hemos creado 4 perfiles de usuarios variados y distintos entre sí de manera aleatoria
+  mediante la tirada de dados. El siguiente paso fue identificar dichos perfiles con personas del mundo real para tener una 
+  opinión objetiva y lo más precisa posible.
 
-	Estas 4 personas han reseñado diversos aspectos de las aplicaciones que hemos evaluado. Las reseñas se han realizado dando
-	un valor entre 1 y 5, donde 1 es lo peor y 5 lo mejor. 
+  Estas 4 personas han reseñado diversos aspectos de las aplicaciones que hemos evaluado. Las reseñas se han realizado dando
+  un valor entre 1 y 5, donde 1 es lo peor y 5 lo mejor. 
 
-	Mediante estas reseñas hemos podido evaluar las aplicaciones y compararlas entre ellas. Hemos resalizado pues un System 
-	Usability Scale Test (SUS) y un A/B testing. Los resultados de las pruebas se describen a continuación.
+  Mediante estas reseñas hemos podido evaluar las aplicaciones y compararlas entre ellas. Hemos resalizado pues un System 
+  Usability Scale Test (SUS) y un A/B testing. Los resultados de las pruebas se describen a continuación.
 	
-	Describe la experiencia 1: GRANADING
+  Describe la experiencia 1: GRANADING
 
-	Las tareas que hemos realizado han sido entre otras:
-		- Buscar evento
-		- Cambiar idioma
-		- Registrarse
-		- Acceder a zona personal
-		- Leer un evento/ruta
-
-
-	Las valoracion de los usuario han sido las siguientes
+  Las tareas que hemos realizado han sido entre otras:
+	- Buscar evento
+	- Cambiar idioma
+	- Registrarse
+	- Acceder a zona personal
+	- Leer un evento/ruta
 
 
-	Describe la experiencia 2
+  Las valoracion de los usuario han sido las siguientes
 
-	Describe la experiencia 3
+
+  Describe la experiencia 2
+
+  Describe la experiencia 3
 
 
 ## Conclusiones
