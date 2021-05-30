@@ -43,8 +43,7 @@ Para calcular la valoración final de cada SUS, seguimos las indicaciones en: **
 | 1 | Creo que me gustará visitar con frecuencia este website | | | | x | |
 | 2 | Encontré el website innecesariamente complejo | | x | | | |
 | 3 | Pensé que era fácil utilizar este website | | | | x | |
-| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | x | | | |
- |
+| 4 | Creo que necesitaría del apoyo de un experto para recorrer el website | x | | | | |
 | 5 | Encontré las funciones del website bastante bien integradas | | | x | | |
 | 6 | Pensé que había demasiada inconsistencia en el website | x | | | | |
 | 7 | Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | | | | x | |
