@@ -460,29 +460,12 @@ Usability Scale Test (SUS) y un A/B testing. Los resultados de las pruebas se de
 En esta cuarta práctica de la asignatura de Diseño de Interfaces de Usuario , hemos elaborado los perfiles de varios usuarios y hemos probado desde sus puntos de vista diferentes productos con características similares. Esto no solo nos ha permitido obtener feedback y opiniones sobre los productos que hemos testeado, sino que también nos ha permitido obtener una comparativa práctica realizada por los usuarios de nuestros productos, sin lugar a dudas esta es una buena manera de testear funcionalidades y poder incorporar aquellas que falten en un producto o eliminar aquellas que no gusten en otro.
 
 
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
-
-
 ## Conclusión final / Valoración de las prácticas
 
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
+En las práctica de Diseño de Interfaces de Usuario hemos llegado a aprender la metodología UX. En nuestra opinion personal, nos ha aportado una gran visión y perspectiva a la hora de desarrollar software, ya que hoy en día incluso los desarrolladores podemos dedicarnos al diseño de las aplicaciones y gracias a esta asignatura tenemos un gran conocimiento respecto a ello. Las prácticas han sido dinámicas, amenas y bastante disfrutables.
 
 
 
